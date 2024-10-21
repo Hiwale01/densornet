@@ -1,4 +1,7 @@
 # Plant-Disease-Detection
+https://drive.google.com/file/d/1FDqaOoa-Vxkj2NAuWLq2xG4JVS1drAEy/view?usp=sharing
+
+model
 
 
 
